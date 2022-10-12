@@ -29,6 +29,11 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Laravel Sponsors
 
+
+contoh hasil
+https://pijarcamp-test.000webhostapp.com/product
+![tugaspijarcamp](https://user-images.githubusercontent.com/86166664/195246793-aa33cb7d-cfa7-47e9-bc66-da9c7bc5884b.png)
+
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
 ### Premium Partners
